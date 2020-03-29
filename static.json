@@ -1,4 +1,8 @@
 {
     "root": "dist/",
-    "encoding": "UTF-8"
+    "encoding": "UTF-8",
+    "logging": {
+        "access": false,
+        "error": "warn"
+    }
 }
